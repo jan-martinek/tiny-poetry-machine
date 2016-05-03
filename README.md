@@ -6,6 +6,10 @@ When you push the button, it plays a random (30 seconds long) poem.
 
 It's not perfect yet (it actually works quite erraticaly now), but the source files want to get online already.
 
+## Guide
+
+Guide with some pics will follow as soon as the first prototype works without errors.
+
 ## Hardware
 
 - [Digispark Clone with miniUSB](http://www.electroschematics.com/12102/learn-to-use-attiny85-usb-mini-development-board/) (with a thin PCB)
